@@ -1,0 +1,19 @@
+{
+    "name": "vin/frameworkenv",
+    "authors": [
+        {
+            "name": "Vin",
+            "email": "info@webkleur.com"
+        }
+    ],
+    "require": {
+		"symfony": "1.0.x-dev"
+	},
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "http://satis.tactics.be"
+    }
+  ]
+	
+}

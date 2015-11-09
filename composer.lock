@@ -1,0 +1,41 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "58545b51ad27aa95313d2f67244c9a56",
+    "content-hash": "17c2d667e63fc7519b663e7fd5ebe8ad",
+    "packages": [
+        {
+            "name": "symfony",
+            "version": "1.0.x-dev",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:Tactics/symfony1.git",
+                "reference": "12cf362c7a0aeb6ce063e32b6b6004a487fb1dd4"
+            },
+            "type": "library",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "fabpot",
+                    "email": "fabpot@sensio.com"
+                }
+            ],
+            "time": "2015-07-22 11:33:33"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "symfony": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
